@@ -1,0 +1,7 @@
+PROJECT_NAME = Labyc
+OUTPUT_DIRECTORY = doc
+INPUT = gameFolder/generator_src/headers gameFolder/menu_src/headers gameFolder/play_src/headers
+FILE_PARTTERNS = *.h
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+GENERATE_RTF = NO

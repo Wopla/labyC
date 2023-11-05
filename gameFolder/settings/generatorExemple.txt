@@ -1,0 +1,5 @@
+saveName:Ocarina of time
+playerName:Link
+iSize:20
+jSize:20
+labyGamemode:2
